@@ -1,0 +1,415 @@
+Generating word vectors
+Matrix shape: (2507, 100)
+Vectors generated
+
+Clustering started
+Clustering finished
+
+Total clusters: 100
+Cluster# 0  - Total words: 14
+Cluster# 1  - Total words: 36
+Cluster# 2  - Total words: 19
+Cluster# 3  - Total words: 61
+Cluster# 4  - Total words: 21
+Cluster# 5  - Total words: 66
+Cluster# 6  - Total words: 13
+Cluster# 7  - Total words: 17
+Cluster# 8  - Total words: 45
+Cluster# 9  - Total words: 17
+Cluster# 10  - Total words: 58
+Cluster# 11  - Total words: 25
+Cluster# 12  - Total words: 42
+Cluster# 13  - Total words: 9
+Cluster# 14  - Total words: 30
+Cluster# 15  - Total words: 16
+Cluster# 16  - Total words: 13
+Cluster# 17  - Total words: 47
+Cluster# 18  - Total words: 5
+Cluster# 19  - Total words: 24
+Cluster# 20  - Total words: 74
+Cluster# 21  - Total words: 13
+Cluster# 22  - Total words: 4
+Cluster# 23  - Total words: 12
+Cluster# 24  - Total words: 33
+Cluster# 25  - Total words: 11
+Cluster# 26  - Total words: 4
+Cluster# 27  - Total words: 48
+Cluster# 28  - Total words: 24
+Cluster# 29  - Total words: 10
+Cluster# 30  - Total words: 41
+Cluster# 31  - Total words: 19
+Cluster# 32  - Total words: 58
+Cluster# 33  - Total words: 16
+Cluster# 34  - Total words: 7
+Cluster# 35  - Total words: 25
+Cluster# 36  - Total words: 23
+Cluster# 37  - Total words: 61
+Cluster# 38  - Total words: 36
+Cluster# 39  - Total words: 19
+Cluster# 40  - Total words: 21
+Cluster# 41  - Total words: 9
+Cluster# 42  - Total words: 35
+Cluster# 43  - Total words: 9
+Cluster# 44  - Total words: 8
+Cluster# 45  - Total words: 14
+Cluster# 46  - Total words: 4
+Cluster# 47  - Total words: 35
+Cluster# 48  - Total words: 27
+Cluster# 49  - Total words: 17
+Cluster# 50  - Total words: 56
+Cluster# 51  - Total words: 4
+Cluster# 52  - Total words: 22
+Cluster# 53  - Total words: 25
+Cluster# 54  - Total words: 2
+Cluster# 55  - Total words: 1
+Cluster# 56  - Total words: 12
+Cluster# 57  - Total words: 26
+Cluster# 58  - Total words: 44
+Cluster# 59  - Total words: 18
+Cluster# 60  - Total words: 46
+Cluster# 61  - Total words: 20
+Cluster# 62  - Total words: 1
+Cluster# 63  - Total words: 12
+Cluster# 64  - Total words: 26
+Cluster# 65  - Total words: 24
+Cluster# 66  - Total words: 7
+Cluster# 67  - Total words: 6
+Cluster# 68  - Total words: 37
+Cluster# 69  - Total words: 1
+Cluster# 70  - Total words: 5
+Cluster# 71  - Total words: 22
+Cluster# 72  - Total words: 52
+Cluster# 73  - Total words: 28
+Cluster# 74  - Total words: 45
+Cluster# 75  - Total words: 37
+Cluster# 76  - Total words: 13
+Cluster# 77  - Total words: 29
+Cluster# 78  - Total words: 22
+Cluster# 79  - Total words: 8
+Cluster# 80  - Total words: 34
+Cluster# 81  - Total words: 31
+Cluster# 82  - Total words: 31
+Cluster# 83  - Total words: 10
+Cluster# 84  - Total words: 50
+Cluster# 85  - Total words: 58
+Cluster# 86  - Total words: 70
+Cluster# 87  - Total words: 17
+Cluster# 88  - Total words: 72
+Cluster# 89  - Total words: 16
+Cluster# 90  - Total words: 17
+Cluster# 91  - Total words: 19
+Cluster# 92  - Total words: 7
+Cluster# 93  - Total words: 41
+Cluster# 94  - Total words: 17
+Cluster# 95  - Total words: 9
+Cluster# 96  - Total words: 1
+Cluster# 97  - Total words: 13
+Cluster# 98  - Total words: 6
+Cluster# 99  - Total words: 42
+Top words per cluster:
+
+Cluster 0
+Words: viejo, caballero, matar, guardar, diablo, miembro, letra, habia, cunegunda, quando, bendecir, qual, baron, tenia,
+
+Cluster 1
+Words: lejos, desaparecer, arrojar, calor, dominar, desierto, rapidez, tempestad, violencia, huella, prolongar, lejano, zona, chocar, resto, litoral, brick, golfo, tormenta, región, caverna, fragata, brumar, sumergir, selva, divisar, hollar, occidental, oriental, pantano, meridional, gruta, arrecife, silvestre, coral, septentrional,
+
+Cluster 2
+Words: ser, vivir, mas, salvar, poblar, fortuna, enemigo, aun, condicionar, rico, guerra, mejorar, propiedad, hacerse, hambre, gobernar, gasto, deuda, arriesgar,
+
+Cluster 3
+Words: libro, abatir, elegante, perseguir, instrumentar, suficientemente, fiebre, prender, furia, confuso, furioso, militar, manejar, alentar, limitar, renovar, mortal, spitz, estallar, violentar, aislar, invadir, contactar, calidad, aldea, finar, naturalista, percibir, tesoro, proteger, reemplazar, ostra, delicioso, enteramente, enfrentar, generalmente, ejemplar, ejercicio, electricidad, innumerable, vaco, estropear, pilar, ceder, garrote, hoguera, pintura, examen, grabar, alimento, soberbio, irresistible, femenino, licor, anteriormente, enterrar, principalmente, aspirar, arar, turco, definitivamente,
+
+Cluster 4
+Words: vestir, cuerpo, negro, movimiento, cielo, llenar, figurar, sangrar, brillar, color, profundo, brillante, arrancar, agudo, dibujar, fino, cabellar, azular, colorir, reflejar, moreno,
+
+Cluster 5
+Words: profesor, inmediato, miedo, intentar, loco, buckingham, stapleton, enfermar, verla, contentar, advertir, verlo, conde, amante, esposar, hacerle, baskerville, molestar, sviajsky, agente, acudir, agradar, betsy, contento, vecino, remediar, lamentar, milord, fingir, constantino, hablarle, barrymore, sobrar, atrever, sire, amabilidad, contigo, haberle, saberlo, haberme, tonto, entrevistar, axel, lector, conversar, eyre, madame, negativo, enfadar, baronet, frialdad, preguntarle, desagradar, suplicar, rezar, separarse, colmar, aprobar, insistir, agradecimiento, seriamente, fanny, stiva, sinceramente, verte, irme,
+
+Cluster 6
+Words: fin, quedar, terminar, santo, faltar, descansar, anunciar, transcurrir, marzo, temprano, octubre, noviembre, veinticuatro,
+
+Cluster 7
+Words: poner, coger, bolsillo, mozo, meter, vaso, grimaud, ponerse, jup, cuadro, sentarse, biblioteca, equipaje, taza, fumar, laskaâ, escritorio,
+
+Cluster 8
+Words: perro, separar, indicar, mitad, grupo, costar, recoger, balar, balsa, trineo, lobo, proveer, extremo, carro, nadar, escalar, proa, palo, calle, centenar, anclar, cable, castillo, franklin, empalizar, popa, muelle, manta, carretero, tabla, delantero, garrar, nordeste, promontorio, pradera, amarrar, remo, estancar, noroeste, sudoeste, sudeste, contrafuerte, barril, remontar, cuero,
+
+Cluster 9
+Words: llamar, gritar, bajo, oír, gestar, repente, profundar, cantar, grito, sonido, besar, conejo, sordo, suavemente, tembloroso, fijamente, murmullar,
+
+Cluster 10
+Words: perfectamente, triste, encantar, curiosidad, desesperar, bonito, adoptar, enfermo, irritar, incapaz, demonio, orgulloso, portar, impresionar, reprochar, atormentar, indiferencia, debilidad, serio, gratitud, sabueso, inesperado, confundir, rechazar, lidenbrock, piedad, enojar, vulgar, burlar, afectuoso, porvenir, golenischev, juventud, avergonzar, incomprensible, descontentar, conversación, digno, repentino, confirmar, humilde, complacer, ansioso, necio, traicionar, sinceridad, desconcertar, stal, naturalidad, argumento, tierno, sincero, supremo, timidez, tranquilizar, temperamento, celoso, indignar,
+
+Cluster 11
+Words: hacia, lado, abrir, paso, juntar, ventana, cerrar, ruido, callar, subir, escalera, echar, chimenea, delante, cama, salar, silla, abajar, cruzar, aparecer, pisar, arribar, par, lentamente, corredor,
+
+Cluster 12
+Words: hacer, cuanto, morir, ayudar, acordar, asegurar, importar, majestad, equivocar, aceptar, consejo, valer, prometer, proponer, eminencia, jurar, quedo, darle, salud, brandon, juez, informar, martin, prudente, divorciar, vm, verme, aprender, promesa, discutir, primo, declarar, preferir, hacerme, casualidad, chico, comprometer, cacambo, aronnax, darme, aconsejar, personalmente,
+
+Cluster 13
+Words: gran, sino, cierto, ninguno, mayor, tanto, menor, raro, diferente,
+
+Cluster 14
+Words: nunca, desear, conocer, él, asunto, personar, verdad, temer, muerte, feliz, placer, esposo, edward, interesar, respectar, entender, motivar, sospechar, willoughby, penar, lucy, preocupar, convencer, perdonar, confesar, deseo, matrimoniar, razonar, ferrars, motivo,
+
+Cluster 15
+Words: milla, armar, bordar, distanciar, cual, altura, metro, profundidad, velocidad, longitud, legua, banco, espaciar, latitud, temperatura, grado,
+
+Cluster 16
+Words: segãºn, excelente, soldar, inglés, edad, poseer, sumo, gradar, gastar, preciar, vender, total, rentar,
+
+Cluster 17
+Words: bajar, alto, luz, aire, soler, blanco, fuego, largo, cubrir, sol, rojo, piedra, pared, oscuro, capar, sombrar, oscuridad, horizonte, agitar, nube, lavar, nevar, luna, grueso, rama, iluminar, piel, flor, rayar, gris, manchar, humo, techar, verde, espeso, estrellar, amplio, cola, rayo, azul, herbar, ala, resplandor, polvo, amarillo, alfombrar, luminoso,
+
+Cluster 18
+Words: aquel, todo, nuevo, abandonar, anterior,
+
+Cluster 19
+Words: ambos, contener, claridad, horrible, distinguir, lengua, espantoso, admirable, infinito, violento, intensidad, continuo, feroz, fiero, conjuntar, contrastar, intenso, surgir, vago, invisible, paisaje, siniestro, variar, intensar,
+
+Cluster 20
+Words: estudiar, entregar, inãºtil, interesante, seguramente, enterar, curar, elegir, prestar, exactamente, conveniente, escuela, mencionar, renunciar, robar, naturalmente, paciencia, palmer, suceso, dedicar, condenar, certeza, regalar, principio, documentar, quejar, azar, exigir, aburrir, beneficiar, ejecutar, averiguar, organizar, escoger, inconveniente, intención, conceder, apuesto, negociar, steele, robert, oficiar, gentleman, justo, excusar, explicación, recompensar, razonable, ocupación, disfrutar, fracasar, resumir, patrio, alejandro, afortunado, recurrir, consistir, norland, sobrino, comodidad, informe, soltero, antemano, sacrificio, oportuno, ocuparse, devonshire, consentir, heredero, gloria, constar, sentirme, negocio, arruinar,
+
+Cluster 21
+Words: athos, fogg, porthos, aramis, criar, picaporte, jugar, phileas, mister, lord, winter, aouida, mistress,
+
+Cluster 22
+Words: â, voz, ned, alicia,
+
+Cluster 23
+Words: esperar, acabar, dormir, ayrton, arreglar, invitar, ayer, aguardar, quedarse, barton, avisar, paris,
+
+Cluster 24
+Words: presentar, peligrar, obstante, evidente, lograr, acostumbrar, posibilidad, consecuencia, realizar, aventurar, reservar, exponer, incidente, ocasionar, probablemente, absolutamente, oportunidad, dificultad, gozar, caber, acontecimiento, admitir, privar, actividad, empresa, ventaja, nacer, riqueza, hogar, probabilidad, conquistar, italia, principado,
+
+Cluster 25
+Words: partir, isla, tierra, hallar, costa, ciudad, buque, lincoln, habitar, continente, abraham,
+
+Cluster 26
+Words: mil, librar, millón, rublo,
+
+Cluster 27
+Words: tocar, examinar, oficial, hans, templar, saludar, respirar, anillar, asentir, cuchillo, plataforma, butaca, empujar, soltar, cuidadosamente, limpiar, pasillo, fusil, esquinar, lento, levantarse, pipa, alcoba, resonar, silbido, apuntar, levar, armario, campanilla, ojear, patio, precipitadamente, bruscamente, postigo, rumor, ladrido, abrirse, hueco, codo, rienda, escotilla, multitud, rozar, palmar, farol, ladrar, portezuela, trasero,
+
+Cluster 28
+Words: entonces, 1, planchet, justar, bailar, final, despachar, verle, doncella, bessie, hostelero, apoderar, tranquilamente, corresponsal, mortimer, despedir, consultar, apresurar, bazin, dirigirse, oficina, maese, sirviente, rochefort,
+
+Cluster 29
+Words: propio, sentimiento, terrible, causar, amor, pensamiento, alma, experimentar, dolor, expresar,
+
+Cluster 30
+Words: igual, valor, conocido, soportar, curioso, antiguar, vencer, francés, pertenecer, real, maestro, misterioso, ruina, diferenciar, estimar, humanar, destruir, verdaderamente, estilar, especialmente, someter, franco, origen, excesivo, constante, igualar, inexplicable, constituir, carecer, ãºtiles, dotar, moderno, utilidad, material, raza, capacidad, insignificante, libre, dignidad, elegancia, social,
+
+Cluster 31
+Words: llevar, cargar, vario, pan, pieza, calcular, doscientos, ochenta, dividir, sesenta, veinticinco, quinientos, setenta, anchura, trescientos, quinientas, doscientas, trescientas, tonelada,
+
+Cluster 32
+Words: campesino, ãºnicamente, totalmente, completo, perdido, propietario, mediante, observación, maravilloso, exacto, facilidad, dominio, peligro, recurso, mãºsica, individuo, pãºblico, corresponder, ambientar, comparar, resistencia, sospechoso, exagerar, particularmente, sorprendente, sistema, accionar, obrero, intrigar, esclavo, perspectivo, complicar, imponer, insoportable, audaz, ingeniar, elemento, ingenioso, grave, eterno, defensa, dato, italiano, preocuparse, perecer, definir, superar, sustentar, ejercer, espiritual, habilidad, sobrenatural, lamentable, consagrar, cambio, asaltar, alemán, acoger,
+
+Cluster 33
+Words: poder, deber, creer, posible, tener, cualquiera, ocurrir, precisar, malo, hacerlo, necesidad, suerte, importante, cumplir, peor, probable,
+
+Cluster 34
+Words: hombre, mujer, hijo, nombrar, pobre, muchacho, candido,
+
+Cluster 35
+Words: siempre, tratar, dudar, ideo, imposible, incluso, considerar, desgraciar, reconocer, presenciar, imaginar, ãºnico, sufrir, afectar, capaz, talar, explicar, relacionar, felicidad, ignorar, secretar, especial, confianza, voluntad, sabio,
+
+Cluster 36
+Words: puerta, luego, entrar, pronto, tras, apenar, detener, acercar, inmediatamente, pasear, dirigir, top, rato, sonar, llave, cochero, cocinar, parar, gabinete, carruaje, comedor, dormitorio, umbral,
+
+Cluster 37
+Words: principal, fijar, alejar, proyectar, cazador, oponer, encerrar, cursar, nuevamente, instalar, vigilar, acercarse, morar, registrar, aproximar, cercano, retroceder, primavera, maniobrar, estancia, posar, fruto, detenerse, segar, mayar, constantemente, tabaco, camino, explorar, trasladar, acceso, regular, puesto, mueble, aparejar, mantenerse, mapa, brãºjula, rochelle, depositar, corral, tropezar, heno, gas, sneffels, agostar, tragar, casita, sitio, barca, nocturno, intervalo, speedy, recinto, adentrar, alba, bodega, improvisar, cargamento, machar, preceder,
+
+Cluster 38
+Words: velar, golpe, tornar, penetrar, volar, abrigar, encender, apagar, precipitar, exterior, secar, cima, girar, pendiente, introducir, estrecho, murar, envolver, cortina, tumbar, colín, abertura, prado, pozo, central, edificio, deslizar, orificio, torrente, tiniebla, niebla, muro, flanco, colina, espesura, espesar,
+
+Cluster 39
+Words: embargar, cambiar, recordar, esperanzar, completar, temor, despertar, obligar, evitar, reflexionar, detalle, procurar, mente, adivinar, inquietud, relatar, sufrimiento, recuerdo, doloroso,
+
+Cluster 40
+Words: aguar, mar, mediar, roca, viento, superficie, corriente, interior, helar, arrastrar, globo, lago, ola, arenar, lluvia, centrar, inferior, cascar, soplar, vasto, llanura,
+
+Cluster 41
+Words: manir, cabeza, mano, brazo, sentar, derecho, papel, hombro, rodilla,
+
+Cluster 42
+Words: mantener, fatigar, evidentemente, crecer, desconocido, resistir, proporcionar, representar, solitario, pleno, combatir, devorar, determinar, escaso, ordinario, bestia, rastro, sustanciar, transformar, producto, hallarse, cultivar, disminuir, potenciar, clima, modificar, millar, destrozar, proximidad, islandia, abundar, primitivo, consumir, elementar, museo,
+
+Cluster 43
+Words: punto, lugar, viajar, colono, sitiar, barco, medir, puerto, mes,
+
+Cluster 44
+Words: tal, solo, cada, primero, mucho, poco, ãºltima, varios,
+
+Cluster 45
+Words: si, ahora, saber, pensar, mejor, nadie, seguro, mal, hoy, decidir, alguien, tampoco, conmigo, vosotros,
+
+Cluster 46
+Words: tiempo, momento, noche, instante,
+
+Cluster 47
+Words: mostrar, general, agradable, extraordinario, realidad, sencillo, menudo, absoluto, distinto, criatura, simple, seriar, manifestar, inteligente, influenciar, perfecto, misterio, ciencia, apariencia, admirar, inspirar, orgullo, cerebro, provocar, secreto, familiar, arte, instinto, moral, celo, crear, atractivo, revelar, modal, sensible,
+
+Cluster 48
+Words: carne, ave, duro, aparato, marino, basar, precioso, ballena, reducir, instrumento, terrestre, cobrar, abundante, tela, molusco, mineral, minar, vegetal, rubio, plomar, diamante, caprichoso, austral, foca, prodigioso, acumular, dimensionar,
+
+Cluster 49
+Words: pues, menos, haber, contar, trabajar, disponer, necesitar, necesario, ganar, dinero, emplear, obtener, suficiente, inglaterra, tarea, pagar, francia,
+
+Cluster 50
+Words: impaciencia, comandante, reposar, thornfield, veselovsky, retener, pistar, afortunadamente, parejo, acostar, efectivamente, labor, vacilar, pilotar, calmar, katavasov, apostar, drebber, trampa, presidente, ganso, listo, impacientar, coquenard, esconder, conductor, vivienda, victoria, bandido, camarada, pretextar, continuamente, alojar, convento, alojamiento, cansancio, albergar, alarmar, cocinero, deprisa, teatro, sopar, desvanecer, brocklehurst, diamantar, liebre, listar, herrete, enseguida, famoso, estocada, pedro, jachvin, inãºtilmente, rucastle, cofre,
+
+Cluster 51
+Words: john, charlar, henrio, francis,
+
+Cluster 52
+Words: decir, tú, querer, amar, amigar, rey, tãº, pedir, favor, duque, doctor, fix, jane, honor, responder, dixo, querido, decirle, watson, contestar, rogar, decirme,
+
+Cluster 53
+Words: caer, frente, boca, dedo, sombrero, apoyar, inclinar, cuello, contemplar, pechar, cristal, mover, diente, pierna, suave, temblar, cabello, alzar, mejilla, nariz, fijo, apretar, oreja, cejar, penetrante,
+
+Cluster 54
+Words: dar, darse,
+
+Cluster 55
+Words: ciro,
+
+Cluster 56
+Words: ojo, rostro, claro, hermoso, labio, caro, lleno, vivo, bello, dulce, puro, facción,
+
+Cluster 57
+Words: comenzar, campar, invierno, campamento, rumbo, refugiar, desembarcar, pasajero, verano, piragua, provisión, buenaventura, transportar, ferrocarril, ruta, diciembre, cueva, jornada, junio, enero, york, abril, julio, febrero, suez, meridiano,
+
+Cluster 58
+Words: probar, ejemplo, conocimiento, ofrecer, particular, demostrar, hecho, tipo, honrar, noble, juzgar, ãºnica, comãºn, jefe, miserable, memoria, negar, proceder, referir, ãºtil, ruso, amistar, humor, personal, actual, merecer, virtud, caso, inteligencia, venganza, defecto, crimen, experiencia, cualidad, prudencia, autoridad, depender, providenciar, ajeno, generoso, cruel, opinión, educar, ciudadano,
+
+Cluster 59
+Words: hora, mesar, tardar, medio, siguiente, cuartar, segundar, cabo, minuto, dentro, semana, recorrer, doce, tren, nueve, reloj, street, once,
+
+Cluster 60
+Words: ligero, ropa, rotar, colgar, pelar, pluma, delgado, batir, golpear, coronar, uniformar, hundir, dorar, acerar, garganta, ligeramente, pegar, camisa, barbar, vigoroso, adornar, arco, sujetar, tapar, guante, redondo, fuertemente, mangar, rosa, sudor, peinar, arrugar, alargar, erizar, sedar, cintura, chaqueta, hinchar, tallar, cintar, asomar, vena, falda, rizar, bigote, hocicar,
+
+Cluster 61
+Words: coser, vida, aunque, modo, mundo, manera, resultar, familia, gente, obrar, historia, circunstancia, existir, clase, existencia, importancia, seguridad, ley, sociedad, adquirir,
+
+Cluster 62
+Words: esteban,
+
+Cluster 63
+Words: ir, venir, tomar, comer, regresar, preparar, mosquetero, cenar, junto, beber, desayunar, almorzar,
+
+Cluster 64
+Words: suponer, olvidar, contrario, falto, principiar, suceder, satisfacer, libertar, resolver, plan, futuro, acaso, confiar, extranjero, error, cometer, culpar, problema, tranquilidad, pariente, paz, conducta, compromiso, proyecto, detallar, casarse,
+
+Cluster 65
+Words: tranquilo, sorprender, sorpresa, ocultar, asombrar, dama, notar, gravar, asustar, animar, belleza, terror, horror, actitud, acento, severo, semblante, retratar, tristeza, conmover, bondadoso, gracioso, reprimir, dulzura,
+
+Cluster 66
+Words: pencroff, smith, harbert, ingeniero, nab, spilett, marinar,
+
+Cluster 67
+Words: mismo, encontrar, alguno, perder, algãºn, ningãºn,
+
+Cluster 68
+Words: conseguir, restar, fuerza, huir, destinar, atacar, dificultar, ãºltimos, consiguiente, bastar, utilizar, aprovechar, pirata, entero, emprender, trabajo, tropa, colonia, riesgo, provincia, capital, u, presidiario, tabor, prever, agotar, favorable, rusia, investigación, pescador, accidentar, precaucionar, exactitud, tentativo, residenciar, capturar, efectuar,
+
+Cluster 69
+Words: vez,
+
+Cluster 70
+Words: tan, bien, bueno, parecer, demasiar,
+
+Cluster 71
+Words: nemo, traer, continuar, orden, guardia, viernes, retirar, prisa, carrera, lacayo, directamente, hotel, habitación, entretanto, camarote, saint, chalupa, louvre, baker, minutar, adonde, alquiler,
+
+Cluster 72
+Words: casi, herir, preso, sostener, quitar, thornton, quemar, perla, visible, hueso, plano, fuente, abismar, cadena, hachar, plato, suspender, liso, olor, estatura, zapato, sacudir, cigarro, aplastar, derribar, furor, robusto, paloma, desplegar, vientre, sucio, copar, flechar, desnudo, metal, despejar, tejer, banda, circular, troncar, calentar, mojar, aguja, violentamente, humedad, mãºsculos, seto, red, perfumar, tejar, desnudar, forrar,
+
+Cluster 73
+Words: ãºltimo, alcanzar, indio, aumentar, nãºmero, cantidad, alimentar, construir, durar, terreno, diverso, sembrar, granar, submarino, europa, pescar, numeroso, establecer, considerable, habitante, objeto, componer, americano, siglo, paraje, naufragio, chino, grant,
+
+Cluster 74
+Words: cuidar, servir, cazar, iglesia, finalmente, comprar, reunir, 3, diario, equipar, cabra, luis, muerto, leche, fabricar, embarcar, batallar, club, cosechar, bombay, herramienta, hong, kong, municionar, fusilar, rescatar, trigo, huevo, francisco, correar, plaza, cebar, horno, brasil, trabajador, elefante, catorce, carpintero, domingo, septiembre, comerciante, yokohama, liverpool, perrault, dieciocho,
+
+Cluster 75
+Words: empezar, permitir, precisamente, encargar, prisionero, convenir, mandar, noto, haberse, ordenar, citar, boda, petersburgo, permiso, gobernador, asistir, colegiar, finca, telegrama, devolver, marcharse, apetito, irse, cuenta, proseguir, prevenir, fecho, preparativo, aldeano, atender, retrasar, reed, instrucción, honorable, duncan, jamar, presentarse,
+
+Cluster 76
+Words: hermano, madre, padre, elinor, hermanar, marianne, maridar, sir, coronel, dashwood, jennings, lady, middleton,
+
+Cluster 77
+Words: comprender, gustar, sentir, siquiera, significar, disgustar, odiar, respetar, fe, apreciar, realmente, castigar, enamorar, juicio, amable, culpable, bondad, despreciar, concienciar, justicia, consolar, dignar, agradecer, ofender, enfermedad, bromar, sentirse, comportamiento, pecar,
+
+Cluster 78
+Words: aãºn, efecto, bastante, forzar, producir, descubrir, salvaje, luchar, conservar, antiguo, objetar, convertir, usar, peligroso, amenazar, poderoso, materia, monstruo, desarrollar, frecuentar, notable, europeo,
+
+Cluster 79
+Words: pesar, aspecto, semejante, verdadero, natural, naturaleza, unir, humano,
+
+Cluster 80
+Words: nautilus, cercar, largar, bosque, granito, palacio, orillar, extremar, avanzar, playa, sur, norte, atravesar, montar, merced, meseta, vapor, situar, canoa, marear, islote, botar, puente, sendero, oeste, flotar, descender, muralla, arroyar, vallar, canal, navegar, polo, desembocadura,
+
+Cluster 81
+Words: pie, levantar, encimar, cortar, sacar, alrededor, saltar, orar, lanzar, tirar, tender, izquierdo, colocar, punta, espalda, espadar, doblar, estrechar, pato, debajo, cuerdo, ancho, hoja, lecho, extender, boto, pedazo, atar, plata, rodar, rueda,
+
+Cluster 82
+Words: observar, escapar, cesar, silencioso, ahogar, romper, pintar, espantar, atraer, turbar, atentamente, brotar, ardiente, clavar, sãºbitamente, radiante, oculto, hilar, fruncir, espejar, alegre, aullido, rugir, sollozo, sonriente, vagar, acariciar, imagen, gemir, inundar, entrecejo,
+
+Cluster 83
+Words: casar, carta, amigo, recibir, visitar, londres, servicio, noticiar, enviar, moscãº,
+
+Cluster 84
+Words: completamente, esforzar, apartar, desconocer, firmar, habitual, calmo, entusiasmar, escena, claramente, profundamente, vano, maravillar, describir, encantador, delicado, osar, vivamente, indiferente, singular, excitar, aplicar, sumir, guiar, ansiedad, encontrarse, nervio, angustiar, emocionar, ternura, concentrar, serenidad, alterar, ira, gravedad, oprimir, peculiar, impasible, mijailov, borrar, aparentar, extraordinariamente, serenar, disipar, rasgo, amistoso, astuto, interlocutor, repugnancia, cegar,
+
+Cluster 85
+Words: canadiense, falso, cansar, reponer, gentilhombre, fairfax, inspector, novio, lestrade, testigo, scherbazky, rivers, iniciar, diana, institutriz, divertir, ingram, disimular, lectura, cliente, abogar, decididamente, ceremonia, comentario, mason, recomendar, mijailovna, blanche, haz, feo, lindo, jesuita, verdugo, moribundo, karenina, interrogar, wardes, solicitar, diestro, servidor, xiii, arkadievna, grace, sagrado, gravemente, quedarme, dmitrievich, secretario, regimentar, vera, borracho, ah, inicial, tribunal, eliza, excelencia, simon, difunto,
+
+Cluster 86
+Words: impedir, recuperar, excepto, concluir, adecuar, ausencia, reparar, personaje, valiente, basto, versar, aclarar, capitular, recobrar, inquietar, comunicar, soledad, criminal, simplemente, comprobar, haberlo, conformar, celebrar, meditar, fiesta, auxiliar, descuidar, favorito, papar, socorrer, practicar, ligar, maldito, pelear, raptar, reclamar, apoderarse, viudo, conjeturar, inãºtiles, lowood, doler, paciente, indudablemente, indudable, molestia, stangerson, obstinar, remordimiento, estudio, hacerla, intervenir, sanar, fugar, haberla, quanto, detective, decirse, modesto, apurar, director, definitivo, agregar, infeliz, presente, saknussemm, venturo, darles, procedimiento, aficionar,
+
+Cluster 87
+Words: ver, mirar, levin, mientras, ana, vronsky, milady, holmes, escuchar, silenciar, rochester, bonacieux, felton, gregorio, oblonsky, sonreír, sherlock,
+
+Cluster 88
+Words: costumbre, desagradable, frecuencia, acto, esfuerzo, afirmar, fiel, decirlo, penoso, aliviar, triunfar, asesinar, acusar, ciertamente, obedecer, igualmente, descubrimiento, desdichado, deducir, actuar, nombre, religioso, muestra, disputar, acertar, capricho, inocente, justificar, prueba, reglar, genio, locura, opinar, exceso, nobleza, relativo, absurdo, envidiar, defender, pretender, cuestionar, ministro, miseria, torturar, rival, delito, participar, emperador, autor, correcto, bienestar, humanidad, generosidad, razonamiento, compartir, talento, directo, concebir, cristiano, sacrificar, ofensa, sãºbditos, sincerar, preocupación, padecer, asesinato, prescindir, crueldad, dichoso, independiente, atribuir, divino,
+
+Cluster 89
+Words: cuyo, formar, grande, animal, fuerte, especie, fondo, enorme, elevar, rodear, superior, inmenso, plantar, masa, pez, mezclar,
+
+Cluster 90
+Words: hablar, reinar, dolly, sergio, alexey, alegrar, princesa, karenin, land, leer, ivanovich, condesa, llorar, alejandrovna, daria, lidio, ivanovna,
+
+Cluster 91
+Words: viajero, disparar, solamente, botella, marinero, tercero, escopeta, doceno, bolsa, billete, vuelta, descargar, galopar, segundo, aproximadamente, fila, mosquete, jinete, cuarto,
+
+Cluster 92
+Words: joven, kitty, sonrisa, tono, alejandrovich, pronunciar, austria,
+
+Cluster 93
+Words: buck, herrar, marcar, maderar, fresco, cuadrar, caja, seco, picar, impulsar, barrer, corto, trazar, vaporar, gigantesco, nivel, brisa, formidable, columna, hierba, trozar, gota, concha, serpiente, recto, campo, aleta, corteza, trozo, destacar, hilera, cenizo, extremidad, cono, saliente, surcar, tronco, calzar, arbusto, rojizo, redondear,
+
+Cluster 94
+Words: do, tres, cuatro, cincar, uno, diez, seis, ocho, veinte, siete, treinta, cien, cincuenta, cuarenta, pistola, quince, ciento,
+
+Cluster 95
+Words: palabra, dios, preguntar, cardenal, gracia, escribir, respuesta, repetir, frase,
+
+Cluster 96
+Words: arkadievich,
+
+Cluster 97
+Words: volver, seguir, salir, caminar, caballo, buscar, marchar, correr, coche, adelantar, andar, conducir, dehesa,
+
+Cluster 98
+Words: pasar, llegar, dejar, ocupar, ﻿1, permanecer,
+
+Cluster 99
+Words: conseil, breve, anciano, miss, periodista, ketty, interrumpir, tortuga, mary, suspirar, gato, ãºltimas, visitante, sacerdote, risa, procurador, nervioso, pensativo, reír, adversario, involuntariamente, alegremente, pausar, ferrier, agafia, murmurar, exclamar, grifo, helen, abrazar, sombrerero, portero, inquieto, ayo, carcajada, volverse, mudar, solemne, gesto, estupefacto, mercero, quieto,
+
+
+
+real	6m49,919s
+user	6m14,374s
+sys	0m11,442s
