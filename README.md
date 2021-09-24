@@ -8,7 +8,8 @@ Encontrar grupos de palabras que puedan ser usados como clases de equivalencia.
 
 ## detalles técnicos
 
-Se utilizó como corpus el archivo resources/farkas.txt, que contiene traducciones al español de varios libros famosos. Especificamente:
+Se utilizó como corpus el archivo resources/farkas.txt, que contiene traducciones al español de varios libros famosos extraidos de https://farkastranslations.com/bilingual_books.php. Especificamente:
+
 Jane Austen	- Sense and Sensibility	
 Charlotte Brontë - Jane Eyre	
 Lewis Carroll - Alice's Adventures in Wonderland		
